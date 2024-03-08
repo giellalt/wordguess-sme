@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wordguess-sme/static/css/main.41b974b9.css",
-    "main.js": "/wordguess-sme/static/js/main.e8702692.js",
+    "main.js": "/wordguess-sme/static/js/main.fc4d1d69.js",
     "static/js/453.7a2f1ffd.chunk.js": "/wordguess-sme/static/js/453.7a2f1ffd.chunk.js",
     "static/media/BCSans-Bold.woff": "/wordguess-sme/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/wordguess-sme/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/wordguess-sme/index.html",
     "static/media/getFetch.cjs": "/wordguess-sme/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.41b974b9.css.map": "/wordguess-sme/static/css/main.41b974b9.css.map",
-    "main.e8702692.js.map": "/wordguess-sme/static/js/main.e8702692.js.map",
+    "main.fc4d1d69.js.map": "/wordguess-sme/static/js/main.fc4d1d69.js.map",
     "453.7a2f1ffd.chunk.js.map": "/wordguess-sme/static/js/453.7a2f1ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41b974b9.css",
-    "static/js/main.e8702692.js"
+    "static/js/main.fc4d1d69.js"
   ]
 }
