@@ -28,6 +28,7 @@ export const ORTHOGRAPHY = [
   'æ',
   'đ',
 
+  'w',
   'ž',
   'z',
   'č',
@@ -38,7 +39,6 @@ export const ORTHOGRAPHY = [
   'm',
 
 //  'q',
-//  'w',
 //  'x',
 ]
 
